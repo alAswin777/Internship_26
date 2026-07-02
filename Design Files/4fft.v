@@ -1,5 +1,3 @@
-4fft.v
-
 `timescale 1ns/1ps
 
 module fft4(
